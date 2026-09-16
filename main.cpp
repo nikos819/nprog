@@ -4,7 +4,7 @@ using namespace std;
 
 struct lista_element {
     int nr;
-    struct lista_element *next; // Poprawiono typ wskaünika na lista_element
+    struct lista_element *next;
 };
 
 class Lista {
